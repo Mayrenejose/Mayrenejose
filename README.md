@@ -1,4 +1,5 @@
 # Hola mundo, Soy May! 🌷
+Bienvenid@! llámame May, soy profesional de la Publicidad con experiencia administrativa, dando un giro de 180° grados a mi vida laboral buscando un cambio en el mundo de la tecnología, iniciando como Front-End Developer egresada de la generación SCL017 de Laboratoria. Actualmente me encuentro en la búsqueda de mi primer empleo como desarrolladora, donde aparte de obtener mas conocimientos y experiencias, también pueda ser un gran apoyo a mi equipo de trabajo demostrando todo lo que se y lo que puedo aportar. Como persona soy principalmente responsable, respetuosa y empática, lo que me lleva a tener éxito en el trabajo en equipo, y como profesional lo que mas destaco de mi es mi constante curiosidad de aprendizaje.
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :raising_hand: Mayrene Mora | 💻 Front End Developer | :thought_balloon: Publicidad y Mercadeo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
